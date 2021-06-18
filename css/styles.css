@@ -5,13 +5,14 @@ body,html{
 }
 
 body{
-    background: radial-gradient(circle, rgba(63,94,251,0.6) 0%, rgba(252,70,107,1) 100%),url(../img/fornite1.jpg);
+    background: radial-gradient(circle, rgba(63,94,251,0.6) 0%, rgba(252,70,107,1) 100%),url(../img/stitch.jpg);
     background-size: cover;
     background-position: center;
     color: #fff;
     background-image: linear-gradient;
 }
 h1{
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
 }
 
@@ -22,7 +23,7 @@ h1{
 }
 
 .logo {
-    height: 30px;
+    height: 100px;
     margin-top: 20px;
 }
 
@@ -40,4 +41,7 @@ a .fab{
     color: #ffc;
     font-size:  30px;
     margin: 0 10px;
+}
+p{
+    color: #fff;
 }
